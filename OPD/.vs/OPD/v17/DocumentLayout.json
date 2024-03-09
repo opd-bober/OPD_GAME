@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\main\\OPD\\OPD_GAME\\OPD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C7E384-DD09-A6D7-1B08-33CD2F9BB897}|Assembly-CSharp.csproj|c:\\main\\opd\\opd_game\\opd\\assets\\_scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C7E384-DD09-A6D7-1B08-33CD2F9BB897}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C7E384-DD09-A6D7-1B08-33CD2F9BB897}|Assembly-CSharp.csproj|C:\\main\\OPD\\OPD_GAME\\OPD\\assets\\_scripts\\level_so.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C7E384-DD09-A6D7-1B08-33CD2F9BB897}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\level_so.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C7E384-DD09-A6D7-1B08-33CD2F9BB897}|Assembly-CSharp.csproj|C:\\main\\OPD\\OPD_GAME\\OPD\\assets\\_scripts\\fsm\\gamestateslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C7E384-DD09-A6D7-1B08-33CD2F9BB897}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\fsm\\gamestateslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C7E384-DD09-A6D7-1B08-33CD2F9BB897}|Assembly-CSharp.csproj|C:\\main\\OPD\\OPD_GAME\\OPD\\assets\\_scripts\\fsm\\choselevellogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C7E384-DD09-A6D7-1B08-33CD2F9BB897}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\fsm\\choselevellogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C7E384-DD09-A6D7-1B08-33CD2F9BB897}|Assembly-CSharp.csproj|C:\\main\\OPD\\OPD_GAME\\OPD\\assets\\_scripts\\fsm\\fsmstate_level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C7E384-DD09-A6D7-1B08-33CD2F9BB897}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\fsm\\fsmstate_level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C7E384-DD09-A6D7-1B08-33CD2F9BB897}|Assembly-CSharp.csproj|C:\\main\\OPD\\OPD_GAME\\OPD\\assets\\_scripts\\fsm\\fsmstate_ingamemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C7E384-DD09-A6D7-1B08-33CD2F9BB897}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\fsm\\fsmstate_ingamemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C7E384-DD09-A6D7-1B08-33CD2F9BB897}|Assembly-CSharp.csproj|C:\\main\\OPD\\OPD_GAME\\OPD\\assets\\_scripts\\fsm\\ingamemenulogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C7E384-DD09-A6D7-1B08-33CD2F9BB897}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\fsm\\ingamemenulogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C7E384-DD09-A6D7-1B08-33CD2F9BB897}|Assembly-CSharp.csproj|C:\\main\\OPD\\OPD_GAME\\OPD\\assets\\_scripts\\fsm\\fsmstate_startmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C7E384-DD09-A6D7-1B08-33CD2F9BB897}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\fsm\\fsmstate_startmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C7E384-DD09-A6D7-1B08-33CD2F9BB897}|Assembly-CSharp.csproj|C:\\main\\OPD\\OPD_GAME\\OPD\\assets\\_scripts\\fsm\\startmenulogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C7E384-DD09-A6D7-1B08-33CD2F9BB897}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\fsm\\startmenulogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C7E384-DD09-A6D7-1B08-33CD2F9BB897}|Assembly-CSharp.csproj|C:\\main\\OPD\\OPD_GAME\\OPD\\assets\\_scripts\\fsm\\fsm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C7E384-DD09-A6D7-1B08-33CD2F9BB897}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\fsm\\fsm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C7E384-DD09-A6D7-1B08-33CD2F9BB897}|Assembly-CSharp.csproj|C:\\main\\OPD\\OPD_GAME\\OPD\\assets\\_scripts\\fsm\\fsmstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C7E384-DD09-A6D7-1B08-33CD2F9BB897}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\fsm\\fsmstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 116,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Level_SO.cs",
+              "DocumentMoniker": "C:\\main\\OPD\\OPD_GAME\\OPD\\Assets\\_scripts\\Level_SO.cs",
+              "RelativeDocumentMoniker": "Assets\\_scripts\\Level_SO.cs",
+              "ToolTip": "C:\\main\\OPD\\OPD_GAME\\OPD\\Assets\\_scripts\\Level_SO.cs",
+              "RelativeToolTip": "Assets\\_scripts\\Level_SO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:08:34.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LevelManager.cs",
+              "DocumentMoniker": "C:\\main\\OPD\\OPD_GAME\\OPD\\Assets\\_scripts\\LevelManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_scripts\\LevelManager.cs",
+              "ToolTip": "C:\\main\\OPD\\OPD_GAME\\OPD\\Assets\\_scripts\\LevelManager.cs",
+              "RelativeToolTip": "Assets\\_scripts\\LevelManager.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAkwB4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T10:41:51.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameStatesLogic.cs",
+              "DocumentMoniker": "C:\\main\\OPD\\OPD_GAME\\OPD\\Assets\\_scripts\\FSM\\GameStatesLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\_scripts\\FSM\\GameStatesLogic.cs",
+              "ToolTip": "C:\\main\\OPD\\OPD_GAME\\OPD\\Assets\\_scripts\\FSM\\GameStatesLogic.cs",
+              "RelativeToolTip": "Assets\\_scripts\\FSM\\GameStatesLogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T19:37:04.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InGameMenuLogic.cs",
+              "DocumentMoniker": "C:\\main\\OPD\\OPD_GAME\\OPD\\Assets\\_scripts\\FSM\\InGameMenuLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\_scripts\\FSM\\InGameMenuLogic.cs",
+              "ToolTip": "C:\\main\\OPD\\OPD_GAME\\OPD\\Assets\\_scripts\\FSM\\InGameMenuLogic.cs",
+              "RelativeToolTip": "Assets\\_scripts\\FSM\\InGameMenuLogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T19:19:35.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FsmState_InGameMenu.cs",
+              "DocumentMoniker": "C:\\main\\OPD\\OPD_GAME\\OPD\\Assets\\_scripts\\FSM\\FsmState_InGameMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\_scripts\\FSM\\FsmState_InGameMenu.cs",
+              "ToolTip": "C:\\main\\OPD\\OPD_GAME\\OPD\\Assets\\_scripts\\FSM\\FsmState_InGameMenu.cs",
+              "RelativeToolTip": "Assets\\_scripts\\FSM\\FsmState_InGameMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T19:11:22.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StartMenuLogic.cs",
+              "DocumentMoniker": "C:\\main\\OPD\\OPD_GAME\\OPD\\Assets\\_scripts\\FSM\\StartMenuLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\_scripts\\FSM\\StartMenuLogic.cs",
+              "ToolTip": "C:\\main\\OPD\\OPD_GAME\\OPD\\Assets\\_scripts\\FSM\\StartMenuLogic.cs",
+              "RelativeToolTip": "Assets\\_scripts\\FSM\\StartMenuLogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T19:24:44.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FsmState_StartMenu.cs",
+              "DocumentMoniker": "C:\\main\\OPD\\OPD_GAME\\OPD\\Assets\\_scripts\\FSM\\FsmState_StartMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\_scripts\\FSM\\FsmState_StartMenu.cs",
+              "ToolTip": "C:\\main\\OPD\\OPD_GAME\\OPD\\Assets\\_scripts\\FSM\\FsmState_StartMenu.cs",
+              "RelativeToolTip": "Assets\\_scripts\\FSM\\FsmState_StartMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T19:10:09.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChoseLevelLogic.cs",
+              "DocumentMoniker": "C:\\main\\OPD\\OPD_GAME\\OPD\\Assets\\_scripts\\FSM\\ChoseLevelLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\_scripts\\FSM\\ChoseLevelLogic.cs",
+              "ToolTip": "C:\\main\\OPD\\OPD_GAME\\OPD\\Assets\\_scripts\\FSM\\ChoseLevelLogic.cs",
+              "RelativeToolTip": "Assets\\_scripts\\FSM\\ChoseLevelLogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T19:31:51.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FsmState_Level.cs",
+              "DocumentMoniker": "C:\\main\\OPD\\OPD_GAME\\OPD\\Assets\\_scripts\\FSM\\FsmState_Level.cs",
+              "RelativeDocumentMoniker": "Assets\\_scripts\\FSM\\FsmState_Level.cs",
+              "ToolTip": "C:\\main\\OPD\\OPD_GAME\\OPD\\Assets\\_scripts\\FSM\\FsmState_Level.cs",
+              "RelativeToolTip": "Assets\\_scripts\\FSM\\FsmState_Level.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T19:11:20.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FsmState.cs",
+              "DocumentMoniker": "C:\\main\\OPD\\OPD_GAME\\OPD\\Assets\\_scripts\\FSM\\FsmState.cs",
+              "RelativeDocumentMoniker": "Assets\\_scripts\\FSM\\FsmState.cs",
+              "ToolTip": "C:\\main\\OPD\\OPD_GAME\\OPD\\Assets\\_scripts\\FSM\\FsmState.cs",
+              "RelativeToolTip": "Assets\\_scripts\\FSM\\FsmState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T18:54:51.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Fsm.cs",
+              "DocumentMoniker": "C:\\main\\OPD\\OPD_GAME\\OPD\\Assets\\_scripts\\FSM\\Fsm.cs",
+              "RelativeDocumentMoniker": "Assets\\_scripts\\FSM\\Fsm.cs",
+              "ToolTip": "C:\\main\\OPD\\OPD_GAME\\OPD\\Assets\\_scripts\\FSM\\Fsm.cs",
+              "RelativeToolTip": "Assets\\_scripts\\FSM\\Fsm.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAewBkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T17:45:33.516Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
