@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OPD_GAME\\OPD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C7E384-DD09-A6D7-1B08-33CD2F9BB897}|Assembly-CSharp.csproj|C:\\Users\\user\\OPD_GAME\\OPD\\assets\\_scripts\\damager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C7E384-DD09-A6D7-1B08-33CD2F9BB897}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\damager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C7E384-DD09-A6D7-1B08-33CD2F9BB897}|Assembly-CSharp.csproj|C:\\Users\\user\\OPD_GAME\\OPD\\assets\\_scripts\\healthview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C7E384-DD09-A6D7-1B08-33CD2F9BB897}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\healthview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C7E384-DD09-A6D7-1B08-33CD2F9BB897}|Assembly-CSharp.csproj|c:\\users\\user\\opd_game\\opd\\assets\\_scripts\\healthviewmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C7E384-DD09-A6D7-1B08-33CD2F9BB897}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\healthviewmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C7E384-DD09-A6D7-1B08-33CD2F9BB897}|Assembly-CSharp.csproj|C:\\Users\\user\\OPD_GAME\\OPD\\assets\\_scripts\\ihealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C7E384-DD09-A6D7-1B08-33CD2F9BB897}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\ihealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C7E384-DD09-A6D7-1B08-33CD2F9BB897}|Assembly-CSharp.csproj|C:\\Users\\user\\OPD_GAME\\OPD\\assets\\_scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C7E384-DD09-A6D7-1B08-33CD2F9BB897}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IHealth.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OPD_GAME\\OPD\\Assets\\_scripts\\IHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\_scripts\\IHealth.cs",
+              "ToolTip": "C:\\Users\\user\\OPD_GAME\\OPD\\Assets\\_scripts\\IHealth.cs",
+              "RelativeToolTip": "Assets\\_scripts\\IHealth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T16:57:04.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HealthViewManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OPD_GAME\\OPD\\Assets\\_scripts\\HealthViewManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_scripts\\HealthViewManager.cs",
+              "ToolTip": "C:\\Users\\user\\OPD_GAME\\OPD\\Assets\\_scripts\\HealthViewManager.cs",
+              "RelativeToolTip": "Assets\\_scripts\\HealthViewManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T16:57:03.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HealthView.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OPD_GAME\\OPD\\Assets\\_scripts\\HealthView.cs",
+              "RelativeDocumentMoniker": "Assets\\_scripts\\HealthView.cs",
+              "ToolTip": "C:\\Users\\user\\OPD_GAME\\OPD\\Assets\\_scripts\\HealthView.cs",
+              "RelativeToolTip": "Assets\\_scripts\\HealthView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T16:57:01.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Health.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OPD_GAME\\OPD\\Assets\\_scripts\\Health.cs",
+              "RelativeDocumentMoniker": "Assets\\_scripts\\Health.cs",
+              "ToolTip": "C:\\Users\\user\\OPD_GAME\\OPD\\Assets\\_scripts\\Health.cs",
+              "RelativeToolTip": "Assets\\_scripts\\Health.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T16:56:59.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Damager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OPD_GAME\\OPD\\Assets\\_scripts\\Damager.cs",
+              "RelativeDocumentMoniker": "Assets\\_scripts\\Damager.cs",
+              "ToolTip": "C:\\Users\\user\\OPD_GAME\\OPD\\Assets\\_scripts\\Damager.cs",
+              "RelativeToolTip": "Assets\\_scripts\\Damager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T16:56:55.48Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
