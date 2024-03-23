@@ -55,16 +55,23 @@
     <UnityVersion>2022.3.19f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Analyzer Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
+    <Analyzer Include="C:\Program Files\Microsoft Visual Studio\2022\Professional\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.19f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.SourceGenerators.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.19f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\_scripts\FSM\Fsm.cs" />
+    <Compile Include="Assets\_scripts\FSM\states\FsmState_ResultMenu.cs" />
     <Compile Include="Assets\_scripts\HealthView.cs" />
     <Compile Include="Assets\_scripts\IHealth.cs" />
     <Compile Include="Assets\_scripts\Health.cs" />
+    <Compile Include="Assets\_scripts\FSM\FsmState.cs" />
     <Compile Include="Assets\_scripts\HealthViewManager.cs" />
+    <Compile Include="Assets\_scripts\FSM\states\FsmState_StartMenu.cs" />
+    <Compile Include="Assets\_scripts\FSM\states\FsmState_PrepareStage.cs" />
+    <Compile Include="Assets\_scripts\FSM\FsmManager.cs" />
     <Compile Include="Assets\_scripts\Damager.cs" />
+    <Compile Include="Assets\_scripts\FSM\states\FsmState_AttackStage.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

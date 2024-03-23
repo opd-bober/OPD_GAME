@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\OPD_GAME\\OPD\\",
+  "WorkspaceRootPath": "C:\\main\\OPD\\OPD_GAME\\OPD_GAME\\OPD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C4C7E384-DD09-A6D7-1B08-33CD2F9BB897}|Assembly-CSharp.csproj|C:\\Users\\user\\OPD_GAME\\OPD\\assets\\_scripts\\damager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4C7E384-DD09-A6D7-1B08-33CD2F9BB897}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\damager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C4C7E384-DD09-A6D7-1B08-33CD2F9BB897}|Assembly-CSharp.csproj|c:\\main\\opd\\opd_game\\opd_game\\opd\\assets\\_scripts\\fsm\\fsmmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C7E384-DD09-A6D7-1B08-33CD2F9BB897}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\fsm\\fsmmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4C7E384-DD09-A6D7-1B08-33CD2F9BB897}|Assembly-CSharp.csproj|C:\\Users\\user\\OPD_GAME\\OPD\\assets\\_scripts\\healthview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4C7E384-DD09-A6D7-1B08-33CD2F9BB897}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\healthview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C4C7E384-DD09-A6D7-1B08-33CD2F9BB897}|Assembly-CSharp.csproj|C:\\main\\OPD\\OPD_GAME\\OPD_GAME\\OPD\\assets\\_scripts\\fsm\\states\\fsmstate_startmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C7E384-DD09-A6D7-1B08-33CD2F9BB897}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\fsm\\states\\fsmstate_startmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4C7E384-DD09-A6D7-1B08-33CD2F9BB897}|Assembly-CSharp.csproj|c:\\users\\user\\opd_game\\opd\\assets\\_scripts\\healthviewmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4C7E384-DD09-A6D7-1B08-33CD2F9BB897}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\healthviewmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C4C7E384-DD09-A6D7-1B08-33CD2F9BB897}|Assembly-CSharp.csproj|c:\\main\\opd\\opd_game\\opd_game\\opd\\assets\\_scripts\\fsm\\states\\fsmstate_attackstage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C7E384-DD09-A6D7-1B08-33CD2F9BB897}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\fsm\\states\\fsmstate_attackstage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4C7E384-DD09-A6D7-1B08-33CD2F9BB897}|Assembly-CSharp.csproj|C:\\Users\\user\\OPD_GAME\\OPD\\assets\\_scripts\\ihealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4C7E384-DD09-A6D7-1B08-33CD2F9BB897}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\ihealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C4C7E384-DD09-A6D7-1B08-33CD2F9BB897}|Assembly-CSharp.csproj|c:\\main\\opd\\opd_game\\opd_game\\opd\\assets\\_scripts\\fsm\\states\\fsmstate_resultmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C7E384-DD09-A6D7-1B08-33CD2F9BB897}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\fsm\\states\\fsmstate_resultmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4C7E384-DD09-A6D7-1B08-33CD2F9BB897}|Assembly-CSharp.csproj|C:\\Users\\user\\OPD_GAME\\OPD\\assets\\_scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4C7E384-DD09-A6D7-1B08-33CD2F9BB897}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C4C7E384-DD09-A6D7-1B08-33CD2F9BB897}|Assembly-CSharp.csproj|c:\\main\\opd\\opd_game\\opd_game\\opd\\assets\\_scripts\\fsm\\states\\fsmstate_preparestage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C7E384-DD09-A6D7-1B08-33CD2F9BB897}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\fsm\\states\\fsmstate_preparestage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,67 +34,67 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IHealth.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OPD_GAME\\OPD\\Assets\\_scripts\\IHealth.cs",
-              "RelativeDocumentMoniker": "Assets\\_scripts\\IHealth.cs",
-              "ToolTip": "C:\\Users\\user\\OPD_GAME\\OPD\\Assets\\_scripts\\IHealth.cs",
-              "RelativeToolTip": "Assets\\_scripts\\IHealth.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T16:57:04.892Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "HealthViewManager.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OPD_GAME\\OPD\\Assets\\_scripts\\HealthViewManager.cs",
-              "RelativeDocumentMoniker": "Assets\\_scripts\\HealthViewManager.cs",
-              "ToolTip": "C:\\Users\\user\\OPD_GAME\\OPD\\Assets\\_scripts\\HealthViewManager.cs",
-              "RelativeToolTip": "Assets\\_scripts\\HealthViewManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "FsmState_AttackStage.cs",
+              "DocumentMoniker": "C:\\main\\OPD\\OPD_GAME\\OPD_GAME\\OPD\\Assets\\_scripts\\FSM\\states\\FsmState_AttackStage.cs",
+              "RelativeDocumentMoniker": "Assets\\_scripts\\FSM\\states\\FsmState_AttackStage.cs",
+              "ToolTip": "C:\\main\\OPD\\OPD_GAME\\OPD_GAME\\OPD\\Assets\\_scripts\\FSM\\states\\FsmState_AttackStage.cs",
+              "RelativeToolTip": "Assets\\_scripts\\FSM\\states\\FsmState_AttackStage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T16:57:03.565Z",
+              "WhenOpened": "2024-03-23T15:18:11.192Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HealthView.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OPD_GAME\\OPD\\Assets\\_scripts\\HealthView.cs",
-              "RelativeDocumentMoniker": "Assets\\_scripts\\HealthView.cs",
-              "ToolTip": "C:\\Users\\user\\OPD_GAME\\OPD\\Assets\\_scripts\\HealthView.cs",
-              "RelativeToolTip": "Assets\\_scripts\\HealthView.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAVAAAA",
+              "DocumentIndex": 3,
+              "Title": "FsmState_ResultMenu.cs",
+              "DocumentMoniker": "C:\\main\\OPD\\OPD_GAME\\OPD_GAME\\OPD\\Assets\\_scripts\\FSM\\states\\FsmState_ResultMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\_scripts\\FSM\\states\\FsmState_ResultMenu.cs",
+              "ToolTip": "C:\\main\\OPD\\OPD_GAME\\OPD_GAME\\OPD\\Assets\\_scripts\\FSM\\states\\FsmState_ResultMenu.cs",
+              "RelativeToolTip": "Assets\\_scripts\\FSM\\states\\FsmState_ResultMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T16:57:01.783Z",
+              "WhenOpened": "2024-03-23T15:18:09.827Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Health.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OPD_GAME\\OPD\\Assets\\_scripts\\Health.cs",
-              "RelativeDocumentMoniker": "Assets\\_scripts\\Health.cs",
-              "ToolTip": "C:\\Users\\user\\OPD_GAME\\OPD\\Assets\\_scripts\\Health.cs",
-              "RelativeToolTip": "Assets\\_scripts\\Health.cs",
+              "Title": "FsmState_PrepareStage.cs",
+              "DocumentMoniker": "C:\\main\\OPD\\OPD_GAME\\OPD_GAME\\OPD\\Assets\\_scripts\\FSM\\states\\FsmState_PrepareStage.cs",
+              "RelativeDocumentMoniker": "Assets\\_scripts\\FSM\\states\\FsmState_PrepareStage.cs",
+              "ToolTip": "C:\\main\\OPD\\OPD_GAME\\OPD_GAME\\OPD\\Assets\\_scripts\\FSM\\states\\FsmState_PrepareStage.cs",
+              "RelativeToolTip": "Assets\\_scripts\\FSM\\states\\FsmState_PrepareStage.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T16:56:59.696Z",
+              "WhenOpened": "2024-03-23T15:18:08.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FsmState_StartMenu.cs",
+              "DocumentMoniker": "C:\\main\\OPD\\OPD_GAME\\OPD_GAME\\OPD\\Assets\\_scripts\\FSM\\states\\FsmState_StartMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\_scripts\\FSM\\states\\FsmState_StartMenu.cs",
+              "ToolTip": "C:\\main\\OPD\\OPD_GAME\\OPD_GAME\\OPD\\Assets\\_scripts\\FSM\\states\\FsmState_StartMenu.cs",
+              "RelativeToolTip": "Assets\\_scripts\\FSM\\states\\FsmState_StartMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T14:40:58.596Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Damager.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OPD_GAME\\OPD\\Assets\\_scripts\\Damager.cs",
-              "RelativeDocumentMoniker": "Assets\\_scripts\\Damager.cs",
-              "ToolTip": "C:\\Users\\user\\OPD_GAME\\OPD\\Assets\\_scripts\\Damager.cs",
-              "RelativeToolTip": "Assets\\_scripts\\Damager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Title": "FsmManager.cs",
+              "DocumentMoniker": "C:\\main\\OPD\\OPD_GAME\\OPD_GAME\\OPD\\Assets\\_scripts\\FSM\\FsmManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_scripts\\FSM\\FsmManager.cs",
+              "ToolTip": "C:\\main\\OPD\\OPD_GAME\\OPD_GAME\\OPD\\Assets\\_scripts\\FSM\\FsmManager.cs",
+              "RelativeToolTip": "Assets\\_scripts\\FSM\\FsmManager.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwA8AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T16:56:55.48Z",
+              "WhenOpened": "2024-03-23T14:26:49.487Z",
               "EditorCaption": ""
             }
           ]
