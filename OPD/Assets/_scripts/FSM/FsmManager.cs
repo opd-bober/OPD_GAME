@@ -11,22 +11,22 @@ public class FsmManager : MonoBehaviour
     [SerializeField]
     private FsmState_ResultMenu state_resultMenu;
 
-    private Fsm fsm;
+    public static Fsm Fsm { get; private set; }
 
     private void Awake()
     {
-        fsm = new Fsm();
+        Fsm = new Fsm();
 
-        fsm.AddState("StartMenu", state_startMenu);
-        fsm.AddState("PrepareStage", state_prepareStage);
-        fsm.AddState("AttackStage", state_attackStage);
-        fsm.AddState("ResultMenu", state_resultMenu);
+        Fsm.AddState("StartMenu", state_startMenu);
+        Fsm.AddState("PrepareStage", state_prepareStage);
+        Fsm.AddState("AttackStage", state_attackStage);
+        Fsm.AddState("ResultMenu", state_resultMenu);
 
-        fsm.Initialize("StartMenu");
+        Fsm.Initialize("StartMenu");
     }
 
     public void SetGameState(string stateName)
     {
-        fsm.SetState(stateName);
+        Fsm.SetState(stateName);
     }
 }
